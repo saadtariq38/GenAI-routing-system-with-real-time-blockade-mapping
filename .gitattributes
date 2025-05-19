@@ -1,0 +1,2 @@
+backend/*.osrm* filter=lfs diff=lfs merge=lfs -text
+backend/*.pbf filter=lfs diff=lfs merge=lfs -text

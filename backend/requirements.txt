@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+httpx
+shapely
+python-geohash
+geohash2
+python-dotenv
+openai
