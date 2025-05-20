@@ -1,0 +1,16 @@
+# filepath: /Users/muhammad.tariq1/My Drive/genai_route_adjustment_demo/.gitignore
+# OSRM data files
+backend/pakistan-latest.osrm.*
+backend/pakistan-latest.osm.pbf
+
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE and OS specific
+.vscode/
+.DS_Store
+*.env
