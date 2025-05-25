@@ -28,6 +28,8 @@ This project demonstrates a high-throughput routing service using GenAI that:
 - You type a natural-language description like “There’s a flood on Shahrah-e-Faisal between XYZ and ABC.”
 - We pass that text to an LLM (OpenAI GPT-4o).
 - The model replies with a raw GeoJSON polygon that outlines the flooded area.
+  
+![Architecture Diagram](image(2).png)
 
 ![Architecture Diagram](image(2).png)
 
