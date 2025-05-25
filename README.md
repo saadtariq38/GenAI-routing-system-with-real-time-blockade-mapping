@@ -29,7 +29,7 @@ This project demonstrates a high-throughput routing service using GenAI that:
 - We pass that text to an LLM (OpenAI GPT-4o).
 - The model replies with a raw GeoJSON polygon that outlines the flooded area.
   
-![Architecture Diagram](image(1).png)
+![Architecture Diagram](initialRoute.png)
 
 ![Architecture Diagram](image(2).png)
 
